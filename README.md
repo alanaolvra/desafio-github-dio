@@ -1,2 +1,2 @@
-# desafio-github-dio
-Desafio de Projeto sobre Git/GitHub
+# Repositório do Desafio de Projetos - Santander Bootcamp + Dio
+-> Projeto sobre Git/GitHub
