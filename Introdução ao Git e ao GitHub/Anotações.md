@@ -19,7 +19,7 @@ Vantagens: controle de versão, armazenamento em nuvem, trabalho em equipe, melh
 
 * **Objetos internos do Git:** 
 
-- Blobs: tipo, tamanho, \0, conteúdo (metadados).
+\- Blobs: tipo, tamanho, \0, conteúdo (metadados).
 
 \- Trees: armazenam blobs.
 
